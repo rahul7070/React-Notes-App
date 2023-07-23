@@ -1,0 +1,1 @@
+export const logo:string = "https://img.freepik.com/free-psd/logo-mockup-panel-wall_511564-1493.jpg?w=826&t=st=1690041871~exp=1690042471~hmac=52e1cd13f93af9d2a291c58ffb2097b0ebf1d336fe49beb192f9037ee964c52c"
